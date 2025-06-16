@@ -1,6 +1,6 @@
 [submodule "shiftly-frontend"]
 	path = shiftly-frontend
-	url = /Users/michal/Programowanie/Shiftly/shiftly-frontend
+	url = https://github.com/AcidReef/shiftly-frontend.git
 [submodule "shiftly-backend"]
 	path = shiftly-backend
 	url = https://github.com/AcidReef/Shiftly.git
