@@ -20,6 +20,12 @@ npx expo start
 dotnet add package Azure.Storage.Blobs
 
 
+npm install expo  
+
+npm install @react-native-picker/picker
+npm install react-native-calendars     
+npm install @react-native-async-storage/async-storage
+
 
 dotnet add package Azure.Messaging.ServiceBus
 
